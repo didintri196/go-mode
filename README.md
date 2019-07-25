@@ -56,4 +56,4 @@ func main() {
 | log     | Using log to Print          |
 | fmt     | Using fmt to Print          |
 
-### Thanks for you
+## THANK FOR YOU
