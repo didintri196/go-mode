@@ -1,4 +1,9 @@
 # go-mode 
+![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/didintri196/go-mode)
+![GitHub](https://img.shields.io/github/license/didintri196/go-mode)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/didintri196/go-mode)
+[![Build Status](https://travis-ci.com/didintri196/go-mode.svg?branch=master)](https://travis-ci.com/didintri196/go-mode)
+
 GOLANG EASY MODE DEBUG OR PRODUCTION
 
 This package is made so that it is easier to create two project modes so that it is not difficult to find the data that you have printed on the coding page, you just need to change the status to release. All testing posts will disappear.
