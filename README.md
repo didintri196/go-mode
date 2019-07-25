@@ -1,0 +1,2 @@
+# go-debug 
+##PACKAGE EASY DEBUG PRINT DATA
