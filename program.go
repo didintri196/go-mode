@@ -60,15 +60,15 @@ func SetMode(Config Configuration) {
 	}
 }
 
-func Println(val string) {
+func Println(v ...interface{}) {
 	if tipe == 1 {
 		if mode == 1 {
-			log.Println(val)
+			log.Println(v...)
 		} else {
 		}
 	} else if tipe == 2 {
 		if mode == 1 {
-			fmt.Println(val)
+			fmt.Println(v...)
 		} else {
 		}
 	}
